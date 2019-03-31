@@ -1,7 +1,7 @@
 
 export const ACTION_SET = 'REDUX_ONE_SET';
 
-export const set (id, payload) => ({
+export const set = (id, payload) => ({
   type: ACTION_SET, id, payload
 });
 
