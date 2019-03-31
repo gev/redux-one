@@ -4,6 +4,7 @@
   "description": "Kills redux boilerplate hell ;-)",
   "main": "index.js",
   "author": "Evgeny <gazdovsky@gmail.com>",
+  "repository": "https://github.com/gev/redux-one",
   "license": "MIT",
   "private": false
 }
