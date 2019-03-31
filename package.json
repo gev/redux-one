@@ -1,0 +1,9 @@
+{
+  "name": "redux-one",
+  "version": "1.0.0",
+  "description": "Kills redux boilerplate hell ;-)",
+  "main": "index.js",
+  "author": "Evgeny <gazdovsky@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
